@@ -24,10 +24,15 @@
 - Membuat hyperlink untuk menuju sebelum headling 1
 ![langkah 5](https://user-images.githubusercontent.com/56240483/112746012-8c9ffa80-8fd6-11eb-9e03-f92595865ddf.png)
 
+## Langkah 6
+Hyperlink dapat menghubungkan html satu dengan html lainnya. namun jika kita tidak membuat kode di halaman tujuan, halaman akan tidak terbaca / kosong, maka kita harus membuat isi halaman dengan menulis kode html yang diinginkan.
+![Screenshot (581)](https://user-images.githubusercontent.com/56240483/112790389-6f783400-9089-11eb-800c-9ef0d992cd28.png)
+
 # Jawab Pertanyaan
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? 
 ```
-Saat saya melakukan penulisan tag <mark> menjadi </mark>, maka fungsi tag tersebut tidak berfungsi
+Jika kita mengubah tag sesuka kita, maka akan terjadi ERROR. Misal kita menulis tag "hrif" maka program akan ERROR, 
+karena tag "hrif" tidak teridentifikasi oleh HTML dikarenakan penulisan tag yang benar adalah "href"yang berfungsi untuk membuat hyperlink
 ```
 2. Apa perbedaan dari tag ``<p>`` dengan tag ``<br>``, berikan penjelasannya! 
 ```
