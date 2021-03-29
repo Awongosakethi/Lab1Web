@@ -25,7 +25,7 @@
 ![langkah 5](https://user-images.githubusercontent.com/56240483/112746012-8c9ffa80-8fd6-11eb-9e03-f92595865ddf.png)
 
 ## Langkah 6
-Hyperlink dapat menghubungkan html satu dengan html lainnya. namun jika kita tidak membuat kode di halaman tujuan, halaman akan tidak terbaca / kosong, maka kita harus membuat isi halaman dengan menulis kode html yang diinginkan.
+- Hyperlink dapat menghubungkan html satu dengan html lainnya. namun jika kita tidak membuat kode di halaman tujuan, halaman akan tidak terbaca / kosong, maka kita harus membuat isi halaman dengan menulis kode html yang diinginkan.
 ![Screenshot (581)](https://user-images.githubusercontent.com/56240483/112790389-6f783400-9089-11eb-800c-9ef0d992cd28.png)
 
 # Jawab Pertanyaan
